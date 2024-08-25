@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+  ~ Copyright (C) 2024, Usmonjon Abdurakhmanov and the Limită project contributors
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU Affero General Public License as published
+  ~ by the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU Affero General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU Affero General Public License
+  ~ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="@dimen/splashscreen_icon_size_with_background"
+    android:height="@dimen/splashscreen_icon_size_with_background"
+    android:viewportWidth="200"
+    android:viewportHeight="165"
+    tools:ignore="PrivateResource">
+
+    <path
+        android:fillColor="@color/ic_launcher_background"
+        android:pathData="M0,0h250v165h-250z" />
+
+    <group
+        android:scaleX="0.5"
+        android:scaleY="0.4125"
+        android:translateX="50"
+        android:translateY="48.46875">
+        <path
+            android:pathData="M128.92,82.06C128.92,68.56 139.87,57.61 153.38,57.61H173.23C177.67,57.61 179.9,57.61 181.66,58.3C184.24,59.32 186.29,61.36 187.31,63.95C188,65.71 188,67.93 188,72.38V91.75C188,96.19 188,98.42 187.31,100.18C186.29,102.76 184.24,104.81 181.66,105.83C179.9,106.52 177.67,106.52 173.23,106.52H153.38C139.87,106.52 128.92,95.57 128.92,82.06V82.06Z"
+            android:strokeWidth="13"
+            android:strokeColor="@color/ic_launcher_foreground" />
+        <path
+            android:pathData="M51.94,49.74H87.74"
+            android:strokeWidth="13"
+            android:strokeColor="@color/ic_launcher_foreground"
+            android:strokeLineCap="round" />
+        <path
+            android:fillColor="@color/ic_launcher_foreground"
+            android:pathData="M86.65,10C71.72,10 59.87,10 50.54,11.15C40.94,12.34 33.08,14.83 26.68,20.49C25.64,21.4 24.66,22.37 23.72,23.38C17.94,29.64 15.39,37.33 14.18,46.71C13,55.84 13,67.43 13,82.04V82.96C13,97.57 13,109.16 14.18,118.29C15.39,127.67 17.94,135.36 23.72,141.62C24.66,142.63 25.64,143.6 26.68,144.51C33.08,150.17 40.94,152.66 50.54,153.85C59.87,155 71.72,155 86.65,155H111.7C126.64,155 138.49,155 147.82,153.85C157.42,152.66 165.28,150.17 171.68,144.51C172.71,143.6 173.7,142.63 174.64,141.62C180.42,135.36 182.97,127.67 184.18,118.29C184.48,115.98 184.7,113.52 184.87,110.89H171.45C171.3,112.94 171.12,114.85 170.89,116.64C169.85,124.69 167.91,129.37 164.7,132.84C164.07,133.52 163.4,134.17 162.7,134.79C159.15,137.93 154.37,139.84 146.15,140.85C137.75,141.88 126.75,141.9 111.24,141.9H87.12C71.61,141.9 60.61,141.88 52.21,140.85C43.99,139.84 39.21,137.93 35.66,134.79C34.96,134.17 34.29,133.52 33.66,132.84C30.45,129.37 28.5,124.69 27.47,116.64C26.41,108.43 26.4,97.67 26.4,82.5C26.4,67.33 26.41,56.57 27.47,48.35C28.5,40.31 30.45,35.63 33.66,32.17C34.29,31.48 34.96,30.83 35.66,30.21C39.21,27.07 43.99,25.17 52.21,24.15C60.61,23.11 71.61,23.1 87.12,23.1H111.24C126.75,23.1 137.75,23.11 146.15,24.15C154.37,25.17 159.15,27.07 162.7,30.21C163.4,30.83 164.07,31.48 164.7,32.17C167.91,35.63 169.85,40.31 170.89,48.35C171.09,49.89 171.25,51.51 171.38,53.24H184.81C184.65,50.94 184.45,48.76 184.18,46.71C182.97,37.33 180.42,29.64 174.64,23.38C173.7,22.37 172.71,21.4 171.68,20.49C165.28,14.83 157.42,12.34 147.82,11.15C138.49,10 126.64,10 111.7,10H86.65Z"
+            tools:ignore="VectorPath" />
+        <path
+            android:fillColor="@color/ic_launcher_foreground"
+            android:pathData="M145.93,82.2a7.95,7.88 0,1 0,15.89 0a7.95,7.88 0,1 0,-15.89 0z" />
+    </group>
+</vector>

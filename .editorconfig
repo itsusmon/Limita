@@ -1,0 +1,25 @@
+root = true
+
+[*]
+charset = utf-8
+indent_size = 4
+tab_width = 4
+indent_style = space
+max_line_length = 100
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.kt]
+ij_kotlin_allow_trailing_comma = true
+ij_kotlin_allow_trailing_comma_on_call_site = true
+
+[*.kts]
+max_line_length = 120
+
+[*.xml]
+max_line_length = off
+ij_any_keep_line_breaks = true
+
+[*.toml]
+max_line_length = off
