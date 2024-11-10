@@ -17,7 +17,7 @@
   -->
 
 <resources>
-    <color name="ic_launcher_background">#FF000000</color>
+    <color name="ic_launcher_background">#FF006D44</color>
     <color name="ic_launcher_foreground">#FFEFEFEF</color>
     <color name="splash_screen_background_light">#FFF1F0F7</color>
     <color name="splash_screen_background_dark">#FF1C1C22</color>
